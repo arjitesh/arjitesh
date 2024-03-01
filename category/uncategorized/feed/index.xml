@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Sungjinwoo</title>
-	<atom:link href="https://sungjinwoo.online/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sungjinwoo.online/</link>
+	<title>Uncategorized &#8211; Sungjinwoo</title>
+	<atom:link href="https://sungjinwoo.online/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sungjinwoo.online</link>
 	<description></description>
 	<lastBuildDate>Fri, 01 Mar 2024 16:43:12 +0000</lastBuildDate>
 	<language>en-US</language>
